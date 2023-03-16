@@ -1,2 +1,8 @@
 # react-movies
-Swapi playground fetching Star Wars movies using Fetch api and React Hooks (useState, useEffect, useCallback)
+
+Sample Fetch api get and post request with React Hooks (useState, useEffect, useCallback) with firebase
+
+# How to run
+
+npm install
+vite
